@@ -6,7 +6,7 @@ This project is an **Attendance System** that leverages facial recognition to ma
 
 ## Overview
 
-The **Attendance System Using Python** utilizes computer vision and machine learning techniques to automate the process of recording attendance. By recognizing faces from a live camera feed, the system ensures accurate and efficient attendance management without the need for manual input.
+The **Attendance System Using Python** utilizes computer vision techniques to automate the process of recording attendance. By recognizing faces from a live camera feed, the system ensures accurate and efficient attendance management without the need for manual input.
 
 ## Features
 
