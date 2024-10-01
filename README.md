@@ -35,7 +35,6 @@ The **Attendance System Using Python** utilizes computer vision techniques to au
    - Use lowercase letters and underscores for naming (e.g., `ratan_tata.jpg`).
    - Avoid spaces and special characters in file names to prevent potential issues.
 
-        ```
 
 ## Usage
 
